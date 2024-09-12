@@ -105,10 +105,11 @@ If you use this dataset in academic work, please cite as follows:
 ```
 ```Simon
 {
-        "title": "A friend asked me, \"Why don't eggs tell joke. I was like hmmm?\"",
-        "body": "I said, \"I'm not sure; but maybe they may laugh and crack.\"",
-        "id": "5tyytx",
-        "score": 3
+        
+        "title": "Eggs",
+        "body": "A friend asked me, \"Why don't eggs tell joke. I was like hmmm?\"",
+        "I said, \"I'm not sure; but maybe they may laugh and crack.\"",
+        "id": "Simon"
     }
 ```
 
